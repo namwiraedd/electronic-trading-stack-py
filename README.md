@@ -82,4 +82,5 @@ How to Contribute
 -FPGA or low-latency infrastructure
 
 Fork the repo, create your module, and open a pull request. Let’s build the future of AI-driven trading together.
-algorithmic trading, quantitative finance, machine learning, AI trading, automated trading system, deep learning, backtesting, financial data, low-latency, MLOps, FPGA, quant developer, AI engineer, data-driven trading, Python trading, quant research platform
+
+#algorithmic trading, #quantitative finance, #machine learning, #AI trading, #automated trading system, #deep learning, #backtesting, #financial data, #low-latency, #MLOps, #FPGA, #quant developer, #AI engineer, #data-driven trading, #Python trading, #quant research platform

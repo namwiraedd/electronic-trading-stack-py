@@ -19,13 +19,21 @@ Lightweight, production-oriented scaffold for an electronic trading stack:
 - Always run QA, legal reviews, and run live-tests with strict risk gating before any real-money deployment.
 - 
 Key Features
+
 -Quantitative Strategy Coding: Build and deploy custom trading strategies using Python and C++ modules.
+
 -Backtesting & Simulation Engine: High-fidelity backtests that maintain live-to-historical parity.
+
 -Market Data Pipeline: Real-time and historical data ingestion with latency-optimized streaming.
+
 -AI/ML Integration: Train and deploy predictive models using TensorFlow, PyTorch, and scikit-learn.
+
 -Risk Management Engine: Enforces dynamic risk limits, stop-losses, and exposure caps in real-time.
+
 -MLOps Automation: Continuous integration and deployment of research models with rollback and audit logs.
+
 -FPGA Acceleration (Optional): Ultra-low-latency execution for high-frequency trading environments.
+
 
 Tech Stack
 -Languages: Python · C++ · Verilog/VHDL (for FPGA modules)
